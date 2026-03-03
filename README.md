@@ -1,49 +1,55 @@
-# تعلم بايثon للمبتدئين (Python for Beginners) 🐍
+# 🐍 The Ultimate Global Python Repository | المستودع العالمي الشامل لبايثون
 
-مرحباً بك في هذا المستودع الشامل لتعلم لغة **بايثون (Python)** من الصفر حتى الاحتراف باللغة العربية. تم تصميم هذا المحتوى ليكون سهلاً ومبسطاً للمبتدئين الذين ليس لديهم خبرة سابقة في البرمجة.
+Welcome to the most comprehensive, multi-language Python learning resource on GitHub! This repository is designed for **everyone**—from absolute beginners to seasoned professionals.
 
-## 🚀 لماذا بايثون؟
-تعتبر بايثون واحدة من أكثر لغات البرمجة شعبية في العالم بسبب:
-- **سهولة التعلم:** تشبه اللغة الإنجليزية في كتابتها.
-- **تعدد الاستخدامات:** تستخدم في تطوير الويب، الذكاء الاصطناعي، تحليل البيانات، والأتمتة.
-- **مجتمع ضخم:** هناك ملايين المبرمجين والمكتبات الجاهزة التي تساعدك.
+مرحباً بكم في المرجع الأكثر شمولاً وتعدداً للغات لتعلم بايثون على جيت هاب! هذا المستودع مصمم **للجميع**—من المبتدئين تماماً إلى المحترفين المتمرسين.
 
 ---
 
-## 🗺️ خارطة الطريق (Roadmap)
-يحتوي هذا المستودع على الدروس التالية مرتبة حسب الصعوبة:
+## 🌍 Choose Your Language | اختر لغتك
 
-1.  **[المقدمة](./01_Introduction/):** ما هي بايثون؟ وكيفية تثبيتها.
-2.  **[الأساسيات](./02_Basics/):** المتغيرات وأنواع البيانات.
-3.  **[العمليات](./03_Operators/):** العمليات الحسابية والمنطقية.
-4.  **[التحكم في التدفق](./04_Control_Flow/):** الشروط (If) والحلقات (Loops).
-5.  **[هياكل البيانات](./05_Data_Structures/):** القوائم، القواميس، والمجموعات.
-6.  **[الدوال](./06_Functions/):** كيفية كتابة دوال قابلة لإعادة الاستخدام.
-7.  **[الموديلات والمكتبات](./07_Modules/):** استخدام المكتبات الجاهزة.
-8.  **[التعامل مع الملفات](./08_File_Handling/):** قراءة وكتابة الملفات.
-9.  **[معالجة الأخطاء](./09_Error_Handling/):** كيفية التعامل مع الأخطاء البرمجية.
-10. **[البرمجة الكائنية (OOP)](./10_OOP/):** الكلاسات والكائنات.
+| Language | Status | Link |
+| :--- | :--- | :--- |
+| **English** | 🇬🇧 Active | [English Guide](./en/) |
+| **العربية** | 🇸🇦 نشط | [الدليل العربي](./ar/) |
+| **Español** | 🇪🇸 Active | [Guía en Español](./es/) |
+| **Français** | 🇫🇷 Active | [Guide Français](./fr/) |
+| **हिन्दी** | 🇮🇳 सक्रिय | [हिंदी गाइड](./hi/) |
 
 ---
 
-## 🛠️ كيف تبدأ؟
-1. قم بتثبيت بايثون من الموقع الرسمي: [python.org](https://www.python.org/).
-2. قم بتحميل هذا المستودع على جهازك:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/python-for-beginners-arabic.git
-   ```
-3. ابدأ بالدخول إلى المجلدات بالترتيب واقرأ ملفات الشرح وجرب الأكواد.
+## 🚀 Repository Structure | هيكل المستودع
+
+This repository is organized into three main sections to cater to all skill levels:
+
+1.  **Beginner Tracks (Multi-language):** Step-by-step guides from "Hello World" to OOP in your preferred language.
+2.  **Advanced Tracks:** Specialized content for professionals including Data Science, Web Development, and Machine Learning.
+3.  **Global Resources:** A curated list of the best books, courses, and tools from around the world.
 
 ---
 
-## 📚 مصادر إضافية
-- [قناة بايثون بالعربي على يوتيوب](https://www.youtube.com/@PythonArabi)
-- [موقع هرمش لتعلم البرمجة](https://harmash.com/tutorials/python)
-- [كتاب "ألف باء بايثون"](https://github.com/nalomran/Learn-Python-In-Arabic)
+## 🛠️ For Professionals | للمحترفين
+
+Explore our advanced modules:
+- 📊 [Data Science & Analysis](./Advanced/Data_Science/)
+- 🌐 [Web Development (Django/FastAPI)](./Advanced/Web_Development/)
+- 🤖 [Machine Learning & AI](./Advanced/Machine_Learning/)
+- ⚙️ [Automation & Scripting](./Advanced/Automation/)
 
 ---
 
-## 🤝 المساهمة
-إذا وجدت أي خطأ أو أردت إضافة درس جديد، لا تتردد في فتح **Pull Request** أو **Issue**.
+## 🤝 Contributing | المساهمة
 
-بالتوفيق في رحلتك التعليمية! 🚀
+We aim to make this the #1 Python resource globally. We welcome contributions in:
+- Translating content to more languages.
+- Adding advanced tutorials and real-world projects.
+- Improving existing documentation.
+
+Please read our [Contribution Guidelines](./CONTRIBUTING.md) to get started.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+*Happy Coding! | برمجة ممتعة!*
